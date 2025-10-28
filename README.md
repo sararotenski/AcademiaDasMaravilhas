@@ -7,4 +7,4 @@
 <p align = center>-Banco de dados com as coleções/tabelas alunos e treinos;</p>
 <p align = center>-Backend com rotas para cadastrar aluno, registrar treino e listar os treinos de cada aluno.</p>
 
-<p align = center>Tecnologias utilizadas: HTML, CSS, JS, NodeJS e PostgreeSQL.</p>
+<p align = center>Tecnologias utilizadas: HTML5, CSS3, JS, NodeJS e PostgreeSQL.</p>
