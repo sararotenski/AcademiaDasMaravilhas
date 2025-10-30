@@ -17,7 +17,7 @@ app.get('/pagina2:id', (req, res) => {
 })
 
 app.get('/pagina3', (req, res) => {
-    res.sendFile(__dirname, 'index.html')
+    res.sendFile(path.join(__dirname, 'index.html'))
 })
 
 //Post
